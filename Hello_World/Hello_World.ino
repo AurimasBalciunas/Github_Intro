@@ -16,6 +16,7 @@
   by Arturo Guadalupi
   modified 8 Sep 2016
   by Colby Newman
+  and now Aurimas Balciunas
 
   This example code is in the public domain.
 
