@@ -16,11 +16,15 @@
   by Arturo Guadalupi
   modified 8 Sep 2016
   by Colby Newman
+  and now Aurimas Balciunas
 
   This example code is in the public domain.
 
   http://www.arduino.cc/en/Tutorial/Blink
 */
+
+//This file was edited by Frankie Fattori
+
 bool toggle = false;
 // the setup function runs once when you press reset or power the board
 void setup() {
